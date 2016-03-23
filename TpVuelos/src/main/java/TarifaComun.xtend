@@ -1,0 +1,4 @@
+
+class TarifaComun extends Tarifa {
+	
+}

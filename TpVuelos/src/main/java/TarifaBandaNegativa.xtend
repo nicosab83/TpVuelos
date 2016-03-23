@@ -1,0 +1,4 @@
+
+class TarifaBandaNegativa extends Tarifa {
+	
+}
