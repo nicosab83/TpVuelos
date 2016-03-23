@@ -1,4 +1,4 @@
 
-class TarifaComun extends Tarifa {
+class TarifaComun implements ITarifa {
 	
 }

@@ -1,4 +1,4 @@
 
-class TarifaEspecial extends Tarifa {
+class TarifaEspecial implements ITarifa {
 	
 }

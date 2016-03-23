@@ -1,4 +1,4 @@
 
-class TarifaBandaNegativa extends Tarifa {
+class TarifaBandaNegativa implements ITarifa {
 	
 }
